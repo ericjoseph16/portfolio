@@ -1,0 +1,107 @@
+404-822-7769 | US Citizen | ejoseph39@gatech.edu | LinkedIn: eric-joseph16 | GitHub: ericjoseph16
+
+Eric Joseph
+
+Education
+
+Georgia Institute of Technology
+Bachelor of Science in Computer Science
+
+Atlanta, GA
+Expected Graduation, May 2027
+
+• Related Coursework: Computing in Python, Data Structures, Algorithm Design & Analysis, Database Design &
+
+SQL, Objects & Design Principles, Object-Oriented Programming, Systems & Networks, Machine Learning
+
+Experience
+
+Narb
+Software Engineer Intern
+
+Atlanta, GA
+June 2025 – Present
+• Accelerated backend performance by 25% under concurrent AI workloads through refining Convex data models for
+
+efficient queries and integrating WebSockets to reduce latency and improve scalability.
+
+• Boosted end-to-end app build success rates using natural language prompts from 50 to 75% by enhancing
+
+LangGraph multi-agent workflows and integrating vector databases to fine-tune autonomous pipeline performance.
+• Created 15+ integration and regression tests with monitoring dashboards for Convex query models and LangGraph
+
+components, cutting manual debugging and improving feature reliability and deployment.
+
+Oeware
+Software Engineer Intern
+
+Atlanta, GA
+Jan 2023 – May 2023
+• Processed 10k+ records in Google Cloud Firestore with Python across data validation, transformation, and report
+
+generation workflows, reducing repetitive data entry by 40% and improving operational scalability.
+
+• Designed and optimized Firestore queries for app usage and access pattern reports, improving query efficiency by
+
+30% and enabling product and engineering teams to make faster, data-driven decisions.
+
+• Saved 8 hours per week of manual error resolution and system checks by streamlining monitoring and alerting with
+
+Google Cloud Functions, tracking platform failures and performance issues to improve application stability.
+
+Projects
+
+Savor | Next.js, React, TypeScript, Firebase, DynamoDB
+
+April 2025 – Present
+
+• Devised 10+ customizable diet filters for a full-stack meal planning platform, enabling goal-driven meal plans
+
+aligned with user preferences and supporting early feature adoption.
+
+• Implemented a responsive React/Next.js frontend with Firebase Authentication and DynamoDB NoSQL data
+
+modeling, creating flexible components and efficient queries to deliver personalized meal plans at scale.
+• Analyzed 20+ competitor diet and meal-planning apps, uncovering feature gaps, evaluating user flows, and
+
+extracting actionable insights to guide development of high-impact, user-centered platform features.
+
+Spoiler Alert | React, Python, Flask, PyTorch, MySQL
+
+September 2024 – January 2025
+
+• Built a full-stack web app integrating user fridge inventory with AI-powered spoilage prediction and recipe
+
+recommendations, demonstrating up to a 20% reduction in food waste during pilot tests.
+
+• Supported 100+ users and ensured robust data flow by engineering RESTful APIs and MySQL schemas for user
+authentication, fridge management, and recipe recommendations, achieving 85% real-time prediction accuracy.
+
+• Designed a responsive React frontend with dynamic state management, integrating PyTorch ML models for
+
+spoilage predictions and ranked recipe recommendations to enhance usability and engagement.
+
+Obesity Risk Prediction Model | Python, Scikit-learn, Pandas, Matplotlib
+
+September 2023 – January 2024
+
+• Achieved 85% accuracy and 0.82 F1-score by engineering a supervised ML pipeline on dietary, activity, and
+
+demographic datasets, improving predictive performance by 15% over baseline models.
+
+• Implemented a preprocessing framework in Pandas/NumPy with imputation, categorical encoding, and feature
+
+scaling, enabling scalable model training and consistent results across 10k+ samples.
+
+• Optimized logistic regression through Exploratory Data Analysis (EDA) and visualization with Matplotlib/Seaborn,
+
+uncovering 3+ key lifestyle risk factors and boosting predictive stability by 20% on validation sets.
+
+Technical Skills
+
+Languages: Python, TypeScript, C, C++, Java, JavaScript, MySQL, Bash/Shell, Go/Golang
+Frameworks & Libraries: React, Next.js, Flask, Pandas, NumPy, Scikit-learn, PyTorch, LangGraph, Vector DBs
+Databases & Cloud: Relational & NoSQL (PostgreSQL, MongoDB, DynamoDB, Firestore), AWS, GCP, Serverless
+DevOps & Tools: Docker, Git, CI/CD (GitHub Actions), Kubernetes, Linux, REST APIs, WebSockets, Agile, Scrum
+
+
