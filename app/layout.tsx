@@ -10,8 +10,8 @@ const geist = Geist({
 })
 
 export const metadata: Metadata = {
-  title: "Felix Macaspac - HubSpot CMS Developer",
-  description: "HubSpot CMS Developer from Philippines with 5 years of experience.",
+  title: "Eric Joseph - Portfolio",
+  description: "Software Engineer, Computer Science student at Georgia Tech.",
   generator: "v0.app",
 }
 
